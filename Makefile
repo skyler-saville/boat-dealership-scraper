@@ -10,7 +10,7 @@ dryrun:
 	python boat_scraper.py --dryrun
 
 csv:
-    python boat_scraper.py --csv
+	python boat_scraper.py --csv
 
 format:
 	black boat_scraper.py
