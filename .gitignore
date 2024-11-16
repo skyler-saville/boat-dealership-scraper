@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# SQLite database files
+*.db
+
+# CSV files
+*.csv
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.swp
+*.swo
+
+# Logs
+*.log
